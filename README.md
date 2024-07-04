@@ -42,7 +42,7 @@
 &nbsp&nbsp&nbsp&nbsp&nbsp<a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a>
 &nbsp&nbsp&nbsp&nbsp&nbsp<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303109/adobe-xd-logo.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alawiahmed&show_icons=true&locale=en&layout=compact" alt="alawiahmed" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=alawiahmed&show_icons=true&locale=en" alt="alawiahmed" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alawiahmed&" alt="alawiahmed" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=alawiahmed&show_icons=true&locale=en" alt="alawiahmed" /></p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<p>&nbsp&nbsp&nbsp&nbsp<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alawiahmed&show_icons=true&locale=en&layout=compact" alt="alawiahmed" /></p><br/>
+<p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=alawiahmed&" alt="alawiahmed" /></p>
 
