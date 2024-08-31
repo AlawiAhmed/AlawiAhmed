@@ -20,7 +20,6 @@
 <a href="https://linkedin.com/in/alawi-masfar-804724256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alawi masfar" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100013367677107&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="علوي بن أحمد" height="30" width="40" /></a>
 <a href="https://www.instagram.com/3lawi_a7med?igsh=dWJjMjJxNW4zMGhr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alawi masfar" height="30" width="40" /></a>
-</p>
 <a href="https://x.com/alawiamed30?s=09" target="blank"><img align="center" src="https://img.freepik.com/vecteurs-libre/nouvelle-conception-icone-x-du-logo-twitter-2023_1017-45418.jpg?size=338&ext=jpg&ga=GA1.1.2008272138.1724976000&semt=ais_hybrid" alt="alawi masfar" height="30" width="40" /></a>
 </p>
 
